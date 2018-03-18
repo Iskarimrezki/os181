@@ -8,3 +8,5 @@ zczc W02 Telah mencoba demo Week02
 zczc W03 demo Week 03 : done
 
 zczc W04 demo Week 04 : Selesai
+
+zczc W05 demo Week 05 : sudah selesai
