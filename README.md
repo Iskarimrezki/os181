@@ -17,4 +17,4 @@ zczc W07 Demo Week 07 : done
 
 zczc W08 Demo Week 08 : done
 
-zczc W09 Demo Week 09 : telah dicoba
+zczc W09 Telah mencoba demo Week09
